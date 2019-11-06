@@ -1,0 +1,2 @@
+exec "C:\\ProgramFiles\\Xilinx\\Vivado\\2019.2\\settings64.bat"
+cd "D:\\ShortPath\\minimal_redpitaya"
